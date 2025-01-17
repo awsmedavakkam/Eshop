@@ -1,5 +1,5 @@
 *{
-<<<<<<< HEAD
+
   margin: 0px;
   padding: 0px;
 }
@@ -43,9 +43,6 @@ li a{
 li a:hover{
   border: 1px solid white;
   
-=======
-    margin: 0;
-    padding: 0;
 }
 .footer{
     background-color: Black;
@@ -58,5 +55,5 @@ li a:hover{
     width: 100%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-top: 2px solid #4CAF50;
->>>>>>> 4027807b6d53dccdf1bd4d0e6d59717f2b5d4109
+
 }
