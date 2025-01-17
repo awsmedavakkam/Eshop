@@ -18,8 +18,9 @@ header{
   font-family: Poppins;
   margin: 8px;
   padding: 10px;
-  color: white; 
+  color: #1e8221; 
 }
+
 
 .nav-bar{
   margin: 25px;  
@@ -37,11 +38,14 @@ li a{
   color: white;
   font-weight: bold;
   padding: 8px;
+  cursor: pointer;
+  
 }
 
-
 li a:hover{
-  border: 1px solid white;
+  color: #4CAF50;
+  text-decoration: underline;
+  text-transform: uppercase;
   
 }
 .footer{
