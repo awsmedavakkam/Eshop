@@ -1,0 +1,90 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(bg-image.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Container for centering the form */
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  /* Form container styling */
+  .form-container {
+    background-color: rgb(225, 243, 31);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+  }
+  
+  /* Form heading */
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #000000;
+  }
+  
+  /* Label styling */
+  label {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 6px;
+    display: block;
+  }
+  
+  /* Input field styling */
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+  
+  /* Button styling */
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #000000;
+    border: none;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #04890b;
+  }
+  
+  /* Login link styling */
+  .login-link {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .login-link a {
+    color: #4CAF50;
+    text-decoration: none;
+  }
+  
+  .login-link a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    font-size: 15px;
+  }
+  
