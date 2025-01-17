@@ -1,4 +1,49 @@
 *{
+<<<<<<< HEAD
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  height: 10vh;
+  background-color: black; 
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo{
+  font-family: Poppins;
+  margin: 8px;
+  padding: 10px;
+  color: white; 
+}
+
+.nav-bar{
+  margin: 25px;  
+}
+
+.nav-bar ul {
+  display: flex;
+  list-style: none;
+}
+
+li a{
+  font-family: Poppins;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  padding: 8px;
+}
+
+
+li a:hover{
+  border: 1px solid white;
+  
+=======
     margin: 0;
     padding: 0;
 }
@@ -13,4 +58,5 @@
     width: 100%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-top: 2px solid #4CAF50;
+>>>>>>> 4027807b6d53dccdf1bd4d0e6d59717f2b5d4109
 }
