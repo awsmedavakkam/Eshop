@@ -14,7 +14,7 @@
     background-color: black; 
   }
   
-  .header-container{
+  .container{
     display: flex;
     justify-content: space-between;
   }
